@@ -13,6 +13,6 @@ public class Main {
         System.out.println(karakter);
         String string = "Ankara";
         boolean dogruMu = false;
-        
+
     }
 }
