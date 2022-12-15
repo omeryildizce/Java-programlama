@@ -3,6 +3,6 @@ public class Validator {
         Validator validator = new Validator();
         Customer customer = new Customer();
         validator.validate(customer);
-        
+
     }
 }
